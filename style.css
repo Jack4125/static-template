@@ -5,6 +5,7 @@
 }
 ul {
   list-style: none;
+  line-height: 0; /* prevent gaps between rows */
 }
 a {
   text-decoration: none;
