@@ -2,6 +2,6 @@
 
 Basic HTML, CSS, JavaScript setup
 
-## To Use
+## To use
 
 `npx degit https://github.com/Jack4125/static-template.git`
